@@ -1,0 +1,5 @@
+{
+    "dataset_customers":"../db/customers.csv",
+    "dataset_payments":"../db/payments.csv",
+    "FECHA_PERIODO":"2021-10-31"
+}
